@@ -1,2 +1,1 @@
-Hi! My name is Sankalp Pandey.
-This is assignment 2 of Computer and Network Security.
+OpenSSL is a software library for applications that secure communications over computer networks against eavesdropping or need to identify the party at the other end.
