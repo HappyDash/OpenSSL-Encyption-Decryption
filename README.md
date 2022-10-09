@@ -1,6 +1,6 @@
 # OpenSSL-Encyption-Decryption
 
-###File encryption/decryption/transmission suite akin to scp (using gcrypt libraries).
+###File encryption/decryption/transmission suite akin to scp (using OpenSSL libraries).
 
 ####Setup:
 
